@@ -1,1 +1,2 @@
-this is file2 in main branch
+this is file2 in main branch'
+this file is modified in branch b2
